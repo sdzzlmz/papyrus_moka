@@ -1,0 +1,12 @@
+# ignore all class files
+*.class
+
+# ignore target directories
+target/
+bin/
+
+# ignore .settings directories
+.settings/
+
+# ignore mac file
+.DS_Store

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BasicActiveObjectExample">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bundles/core/doc/org.eclipse.papyrus.moka.doc/resource/BasicActiveObjectExample.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

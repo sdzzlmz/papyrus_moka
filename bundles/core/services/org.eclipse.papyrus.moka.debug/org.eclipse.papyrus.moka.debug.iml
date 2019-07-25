@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.eclipse.papyrus.moka.fuml.statemachines.interfaces" />
+    <orderEntry type="module" module-name="org.eclipse.papyrus.moka.composites.interfaces" />
+    <orderEntry type="module" module-name="org.eclipse.papyrus.moka.timedfuml.interfaces" />
+    <orderEntry type="module" module-name="org.eclipse.papyrus.moka.utils" />
+    <orderEntry type="module" module-name="org.eclipse.papyrus.moka.utils.ui" />
+    <orderEntry type="module" module-name="org.eclipse.papyrus.moka.service" />
+    <orderEntry type="module" module-name="org.eclipse.papyrus.moka.animation" />
+    <orderEntry type="module" module-name="org.eclipse.papyrus.moka.fuml.interfaces" />
+  </component>
+</module>
